@@ -1,0 +1,48 @@
+Topic 7: Interior construction quotation system
+
+Hệ thống báo giá thi công nội thất của 1 đơn vị
+ + Trang thông tin giới thiệu các dự án thi công nội thất đã triển khai, tin tức, blog chia sẽ kinh nghiệm, …
+ + Chức năng cho phép khách hàng xem báo giá chuẩn của thi công nội thất
+ ++ Chức năng cho phép khách hàng tính giá dự kiến sơ bộ thi công theo các thông số lựa chọn (sản phẩm, phong cách, chất liệu, kích thước, ...)
+ + Quản lý quá trình từ lúc khách hàng yêu cầu gửi báo giá cho đến khi xác nhận báo giá để thực hiện ký hợp đồng
+ + Dashboard & report thống kê khách hàng, báo giá, ...
+
+Link web tham khảo: https://noithattugia.com/thi-cong-noi-that/
+		    https://noithatmanhhe.vn/
+
+Guest: 
+	- Truy cập được trang chủ và xem các tin tức, thông tin giới thiệu dự án
+	- Đọc blog -> phải signup hoặc login mới có thể cmt 
+	- Hiển thị 1 list các danh sách nhà, nội thất và có thể vào xem giới thiệu + báo giá 
+Customer: 
+	- Tất cả các chức năng của guest
+	- Đk tài khoản để lưu trữ thông tin và theo dõi trạng thái của yêu cầu báo giá 
+	- Đặt yêu cầu báo giá và điền thông tin liên quan 
+	- Được điều chỉnh sơ bộ và báo giá cho tổng các option đã chọn 
+Staff: 
+	- Có tất cả các chức năng của customer 
+	- Quản lý các yêu cầu báo giá từ customer
+	- Thực hiện tính giá dự kiến sơ bộ và tạo báo giá chi tiết 
+	- Cập nhật trạng thái của yêu cầu báo giá và hợp đồng 
+	- Tạo và quản lý các thông dự án đã triển khai 
+	- Tạo và quản lý các blog và tin tức 
+Admin: 
+	- Quản lý người dùng và phân quyền 
+	- Quản lý dashboard & report thống kê về khách hàng, báo giá và dự án 
+	- Thêm, sửa, xóa nội dung trang chủ và thông tin dự án.
+	- Quản lý danh mục sản phẩm, phong cách, chất liệu, và các thông số liên quan.
+	- Cập nhật thông tin về bảng giá và tính giá dự kiến sơ bộ.
+
+
+Functional requirement: 
+Non-functional requirement:
+
+
+
+https://www.youtube.com/playlist?list=PLP6tw4Zpj-RK-M33E9-h6whI1S-ww1Jfu
+
+
+
+
+
+

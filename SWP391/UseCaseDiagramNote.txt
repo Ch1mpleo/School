@@ -1,0 +1,18 @@
+Use case diagram: 
+
+	- Association 
+		+ nét nối thẳng, nối giữa actor và usecase -> Hàm ý rằng user nào dùng tính năng gì 
+		+ Xài/Nhận info từ app (direct user và indirect user) 
+
+	- Generalization 
+		+ Tạo 1 user chứa những tính năng chung và kế thừa nó 
+		+ Cùng nhóm chức năng, cùng chia sẻ tính năng -> vẽ mũi tên ngược vào
+	- Include
+		+ giống như #include bên C, import Java, using C#
+		+ Sự phụ thuộc giữa 2 use case, phụ thuộc cực kì chặt chẽ 
+	- Extend 
+		+ Sự phụ thuộc giữa 2 use case, phụ thuộc lỏng lẻo, tồn tại độc lập
+		+ extend mũi tên sẽ ngược lại so với các cái kia  
+
+
+ 
