@@ -1,0 +1,11 @@
+E:\FPTUni\PRN291\BMI\bin\Debug\net8.0\BMI.deps.json
+E:\FPTUni\PRN291\BMI\bin\Debug\net8.0\BMI.dll
+E:\FPTUni\PRN291\BMI\bin\Debug\net8.0\BMI.pdb
+E:\FPTUni\PRN291\BMI\obj\Debug\net8.0\BMI.GeneratedMSBuildEditorConfig.editorconfig
+E:\FPTUni\PRN291\BMI\obj\Debug\net8.0\BMI.AssemblyInfoInputs.cache
+E:\FPTUni\PRN291\BMI\obj\Debug\net8.0\BMI.AssemblyInfo.cs
+E:\FPTUni\PRN291\BMI\obj\Debug\net8.0\BMI.csproj.CoreCompileInputs.cache
+E:\FPTUni\PRN291\BMI\obj\Debug\net8.0\BMI.dll
+E:\FPTUni\PRN291\BMI\obj\Debug\net8.0\refint\BMI.dll
+E:\FPTUni\PRN291\BMI\obj\Debug\net8.0\BMI.pdb
+E:\FPTUni\PRN291\BMI\obj\Debug\net8.0\ref\BMI.dll
