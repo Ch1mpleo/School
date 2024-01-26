@@ -1,0 +1,23 @@
+PROJECT REQS
+
+Hệ thống báo giá thi công nội thất của đơn vị yêu cầu các tính năng sau đây:
+
+1/ Trang thông tin dự án và tin tức:
+- Hiển thị thông tin về các dự án thi công nội thất đã triển khai.
+- Tin tức và blog chia sẻ kinh nghiệm trong lĩnh vực thi công nội thất.
+
+2/ Chức năng xem báo giá chuẩn:
+- Cho phép khách hàng xem báo giá chuẩn của các loại dự án thi công nội thất.
+
+3/ Chức năng tính giá dự kiến sơ bộ:
+- Cho phép khách hàng tính giá dự kiến sơ bộ cho dự án thi công nội thất dựa trên các thông số lựa chọn như sản phẩm, phong cách, chất liệu, kích thước, và các yếu tố khác.
+
+4/ Quản lý quá trình từ yêu cầu đến ký hợp đồng:
+- Ghi lại thông tin và quản lý quá trình từ khi khách hàng yêu cầu gửi báo giá cho đến khi xác nhận báo giá và ký hợp đồng.
+- Theo dõi và cập nhật trạng thái của mỗi yêu cầu báo giá để đảm bảo quy trình diễn ra mượt mà.
+
+5/ Dashboard & report thống kê:
+- Tạo dashboard hiển thị tổng quan về số lượng khách hàng, số lượng báo giá đã tạo, số lượng hợp đồng đã ký, và các thông số khác quan trọng.
+- Cung cấp các báo cáo thống kê chi tiết về khách hàng, báo giá, và các hoạt động khác trong hệ thống.
+
+Các yếu tố cần xem xét khi phát triển hệ thống này bao gồm tính bảo mật, giao diện người dùng thân thiện, khả năng mở rộng để thêm tính năng mới, và tích hợp các công nghệ mới nhất để cải thiện trải nghiệm người dùng. Đồng thời, cũng quan trọng là tương tác hiệu quả giữa các thành phần trong hệ thống để đảm bảo tính ổn định và hiệu suất.
